@@ -1,60 +1,3346 @@
-Generated a 100 digit random number in 0.000255107879639 seconds.
-Fermat test spent 1.50203704834e-05 seconds.
-Generated a 100 digit random number in 0.000250101089478 seconds.
-Fermat test spent 1.90734863281e-06 seconds.
-Generated a 100 digit random number in 0.000247001647949 seconds.
-Fermat test spent 7.86781311035e-06 seconds.
-Generated a 100 digit random number in 0.000247001647949 seconds.
-Fermat test spent 1.90734863281e-06 seconds.
-Generated a 100 digit random number in 0.000246047973633 seconds.
-Fermat test spent 6.91413879395e-06 seconds.
-Generated a 100 digit random number in 0.000245094299316 seconds.
-Fermat test spent 1.90734863281e-06 seconds.
 Generated a 100 digit random number in 0.000253915786743 seconds.
-Fermat test spent 9.53674316406e-07 seconds.
-Generated a 100 digit random number in 0.000246047973633 seconds.
-Fermat test spent 1.90734863281e-06 seconds.
-Generated a 100 digit random number in 0.000246047973633 seconds.
-Fermat test spent 8.10623168945e-06 seconds.
-Generated a 100 digit random number in 0.000246047973633 seconds.
-Fermat test spent 1.90734863281e-06 seconds.
-Generated a 100 digit random number in 0.000246047973633 seconds.
-Fermat test spent 8.10623168945e-06 seconds.
-Generated a 100 digit random number in 0.000524044036865 seconds.
-Fermat test spent 2.14576721191e-06 seconds.
-Generated a 100 digit random number in 0.000246047973633 seconds.
-Fermat test spent 1.90734863281e-06 seconds.
-Generated a 100 digit random number in 0.000246047973633 seconds.
-Fermat test spent 1.90734863281e-06 seconds.
+Fermat test spent 2.59876251221e-05 seconds.
+Generated a 100 digit random number in 0.00026798248291 seconds.
+Fermat test spent 0.000687122344971 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
 Generated a 100 digit random number in 0.000244855880737 seconds.
-Fermat test spent 8.82148742676e-06 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000676155090332 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000680923461914 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000616788864136 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000639915466309 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00068187713623 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000241994857788 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
 Generated a 100 digit random number in 0.000245809555054 seconds.
-Fermat test spent 7.86781311035e-06 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000665187835693 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000686883926392 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000656843185425 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000575065612793 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 9.05990600586e-06 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000661849975586 seconds.
+Generated a 100 digit random number in 0.000258922576904 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000663995742798 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.00065803527832 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000669956207275 seconds.
+Generated a 100 digit random number in 0.000267028808594 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 0.000667095184326 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000241994857788 seconds.
+Fermat test spent 0.000616073608398 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000658988952637 seconds.
 Generated a 100 digit random number in 0.000246047973633 seconds.
-Fermat test spent 2.14576721191e-06 seconds.
+Fermat test spent 0.000635862350464 seconds.
+Generated a 100 digit random number in 0.000252962112427 seconds.
+Fermat test spent 0.000634908676147 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000584840774536 seconds.
 Generated a 100 digit random number in 0.000246047973633 seconds.
-Fermat test spent 6.91413879395e-06 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000625848770142 seconds.
 Generated a 100 digit random number in 0.000246047973633 seconds.
-Fermat test spent 8.10623168945e-06 seconds.
+Fermat test spent 0.00056004524231 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000654935836792 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000694036483765 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000684022903442 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000617980957031 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000684976577759 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000626087188721 seconds.
 Generated a 100 digit random number in 0.000246047973633 seconds.
-Fermat test spent 2.14576721191e-06 seconds.
+Fermat test spent 0.00058388710022 seconds.
 Generated a 100 digit random number in 0.000246047973633 seconds.
-Fermat test spent 6.91413879395e-06 seconds.
+Fermat test spent 0.000671863555908 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000588893890381 seconds.
+Generated a 100 digit random number in 0.00025200843811 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000597953796387 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000676155090332 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 9.05990600586e-06 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000653028488159 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000241994857788 seconds.
+Fermat test spent 0.000672817230225 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 0.000588893890381 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000624895095825 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000686168670654 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000691890716553 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000699996948242 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000655889511108 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000639915466309 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000672101974487 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000651121139526 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000646114349365 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000638008117676 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000241994857788 seconds.
+Fermat test spent 0.000663995742798 seconds.
+Generated a 100 digit random number in 0.000249147415161 seconds.
+Fermat test spent 0.000632047653198 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000659942626953 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000637054443359 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000594854354858 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000627040863037 seconds.
+Generated a 100 digit random number in 0.000270843505859 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000658988952637 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000644207000732 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.0627551078796 seconds.
+Generated a 100 digit random number in 0.000251054763794 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 0.000611066818237 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.0633518695831 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000677824020386 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000645875930786 seconds.
+Generated a 100 digit random number in 0.000250101089478 seconds.
+Fermat test spent 0.000672101974487 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000658988952637 seconds.
+Generated a 100 digit random number in 0.000249862670898 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000667810440063 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 0.000586986541748 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000677824020386 seconds.
+Generated a 100 digit random number in 0.000262022018433 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000669956207275 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000619888305664 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.00068998336792 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000663995742798 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000633955001831 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000673770904541 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000667095184326 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000675916671753 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000580072402954 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000373125076294 seconds.
+Fermat test spent 0.000649929046631 seconds.
+Generated a 100 digit random number in 0.000266075134277 seconds.
+Fermat test spent 0.000657081604004 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000641822814941 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000678062438965 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00067400932312 seconds.
+Generated a 100 digit random number in 0.000254154205322 seconds.
+Fermat test spent 0.000679016113281 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000584125518799 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000655889511108 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000636100769043 seconds.
+Generated a 100 digit random number in 0.000255107879639 seconds.
+Fermat test spent 0.000633955001831 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000600099563599 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000582933425903 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000600099563599 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000661134719849 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000626802444458 seconds.
+Generated a 100 digit random number in 0.000249147415161 seconds.
+Fermat test spent 0.000670194625854 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000656127929688 seconds.
+Generated a 100 digit random number in 0.000250101089478 seconds.
+Fermat test spent 0.000683069229126 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000664949417114 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000633955001831 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000241041183472 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000256061553955 seconds.
+Fermat test spent 0.000581026077271 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000653982162476 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000669002532959 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000602006912231 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000272035598755 seconds.
+Fermat test spent 0.000615835189819 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.00065803527832 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000691890716553 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000610113143921 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000637054443359 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000655889511108 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000675201416016 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000255823135376 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000672817230225 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000605821609497 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000579118728638 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000627040863037 seconds.
+Generated a 100 digit random number in 0.000261068344116 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000662088394165 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000699996948242 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.00025486946106 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000607967376709 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.00059700012207 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000640869140625 seconds.
+Generated a 100 digit random number in 0.000250101089478 seconds.
+Fermat test spent 0.000695943832397 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000679016113281 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.12056732178e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000634908676147 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000663042068481 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.21593475342e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000650882720947 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000595092773438 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000648021697998 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000619888305664 seconds.
+Generated a 100 digit random number in 0.000256061553955 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000638008117676 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000669956207275 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000676870346069 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000252962112427 seconds.
+Fermat test spent 0.000588893890381 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000669956207275 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000611066818237 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000677108764648 seconds.
+Generated a 100 digit random number in 0.00026798248291 seconds.
+Fermat test spent 0.000651836395264 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000679969787598 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000677108764648 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000608921051025 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000633001327515 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000581979751587 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000703096389771 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000680923461914 seconds.
+Generated a 100 digit random number in 0.000256061553955 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000648021697998 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 0.000613927841187 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000684022903442 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000695943832397 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.00062108039856 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000613927841187 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000251054763794 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000617027282715 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000662088394165 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 0.000576019287109 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000656843185425 seconds.
+Generated a 100 digit random number in 0.000256061553955 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000678062438965 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 0.000667095184326 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000601053237915 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000261068344116 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000653982162476 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000700950622559 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000648021697998 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000643968582153 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000693082809448 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000676870346069 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000255107879639 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.00061821937561 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000679969787598 seconds.
+Generated a 100 digit random number in 0.000263929367065 seconds.
+Fermat test spent 0.000675916671753 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.00062084197998 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 9.05990600586e-06 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000667810440063 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000612020492554 seconds.
+Generated a 100 digit random number in 0.000253915786743 seconds.
+Fermat test spent 0.00066089630127 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000672101974487 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000599145889282 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.00025200843811 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.12056732178e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000630855560303 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000655889511108 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000262975692749 seconds.
+Fermat test spent 0.000611066818237 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000241994857788 seconds.
+Fermat test spent 0.000612020492554 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 0.000615119934082 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000672817230225 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000649929046631 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000607967376709 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.0624930858612 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000627994537354 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000611066818237 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000638008117676 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 0.000655174255371 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000665187835693 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000647068023682 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00062894821167 seconds.
+Generated a 100 digit random number in 0.000252962112427 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.00063681602478 seconds.
+Generated a 100 digit random number in 0.000249147415161 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000667095184326 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000610828399658 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000655889511108 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000654935836792 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 9.05990600586e-06 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000626087188721 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000598907470703 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000670194625854 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000653982162476 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.00025200843811 seconds.
+Fermat test spent 0.000592947006226 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000701904296875 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000663042068481 seconds.
+Generated a 100 digit random number in 0.000257015228271 seconds.
+Fermat test spent 0.000640869140625 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000676155090332 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00065016746521 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 9.05990600586e-06 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000264883041382 seconds.
+Fermat test spent 0.000601053237915 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000678062438965 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.12056732178e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.00061297416687 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000670194625854 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000649929046631 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000620126724243 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000595808029175 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000669956207275 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000651121139526 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000708103179932 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00059700012207 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000598907470703 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000586986541748 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000651121139526 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000653982162476 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000613927841187 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000598907470703 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000654935836792 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000655889511108 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000607967376709 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 9.05990600586e-06 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000679016113281 seconds.
+Generated a 100 digit random number in 0.000264883041382 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000607967376709 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000633001327515 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000669956207275 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000648975372314 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000633955001831 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000662088394165 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000607013702393 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000668048858643 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000642061233521 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000635147094727 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.00068998336792 seconds.
+Generated a 100 digit random number in 0.000249147415161 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000667095184326 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00059700012207 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000706195831299 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000652074813843 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000615119934082 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000606060028076 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.00024676322937 seconds.
+Fermat test spent 0.000656127929688 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.12056732178e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.00064492225647 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000633001327515 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000649929046631 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000647068023682 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000663042068481 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000577926635742 seconds.
+Generated a 100 digit random number in 0.000289916992188 seconds.
+Fermat test spent 0.000629186630249 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 0.000614166259766 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000688076019287 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000595092773438 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000595808029175 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000676870346069 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000666856765747 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000654935836792 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000581979751587 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000670909881592 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 0.000681161880493 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.0002601146698 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000616073608398 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000597953796387 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000623941421509 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000598192214966 seconds.
+Generated a 100 digit random number in 0.000267028808594 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000622034072876 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000614881515503 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000655889511108 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000687837600708 seconds.
+Generated a 100 digit random number in 0.000262975692749 seconds.
+Fermat test spent 0.00063419342041 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000701904296875 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000687122344971 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000256061553955 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000664949417114 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000642061233521 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000667095184326 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000681161880493 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.12056732178e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000675916671753 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000668048858643 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000616073608398 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000593185424805 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000617027282715 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000671863555908 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.00068187713623 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000640869140625 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000617027282715 seconds.
+Generated a 100 digit random number in 0.00024676322937 seconds.
+Fermat test spent 0.000693082809448 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000610113143921 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000642061233521 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000609874725342 seconds.
+Generated a 100 digit random number in 0.000264167785645 seconds.
+Fermat test spent 1.12056732178e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.00062108039856 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000577926635742 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000610828399658 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000673055648804 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000617980957031 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000678062438965 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000653028488159 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000253915786743 seconds.
+Fermat test spent 0.000632047653198 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000645875930786 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000638008117676 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000697135925293 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000653028488159 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000691890716553 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 0.000640153884888 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000691890716553 seconds.
+Generated a 100 digit random number in 0.000249147415161 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 0.000662088394165 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000616073608398 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000669002532959 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000665903091431 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000656127929688 seconds.
+Generated a 100 digit random number in 0.000263929367065 seconds.
+Fermat test spent 0.000602960586548 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000655889511108 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000656127929688 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000255107879639 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000598907470703 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00058913230896 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000602960586548 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.21593475342e-05 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000261068344116 seconds.
+Fermat test spent 0.000678777694702 seconds.
+Generated a 100 digit random number in 0.000249147415161 seconds.
+Fermat test spent 0.000663995742798 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000638008117676 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000624895095825 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000249147415161 seconds.
+Fermat test spent 0.000676155090332 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000672101974487 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.00062108039856 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000598192214966 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000658988952637 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.59740447998e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000669956207275 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000653982162476 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000595808029175 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000676870346069 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000638961791992 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000658988952637 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000672101974487 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000250101089478 seconds.
+Fermat test spent 0.000688076019287 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000642061233521 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000683069229126 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000627040863037 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000708103179932 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000622034072876 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000672817230225 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000637054443359 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000272989273071 seconds.
+Fermat test spent 0.000633955001831 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000622987747192 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000633955001831 seconds.
+Generated a 100 digit random number in 0.000256061553955 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000645875930786 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000603199005127 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00065803527832 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000256061553955 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000653028488159 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000675916671753 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000672817230225 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000645875930786 seconds.
+Generated a 100 digit random number in 0.000264167785645 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000639915466309 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.00065279006958 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000694990158081 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.00063419342041 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000599145889282 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000597953796387 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000614881515503 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000257015228271 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000679969787598 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000657081604004 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000671148300171 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000669956207275 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000689029693604 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000647068023682 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000253915786743 seconds.
+Fermat test spent 0.000574111938477 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000649929046631 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000622034072876 seconds.
+Generated a 100 digit random number in 0.000250101089478 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000255107879639 seconds.
+Fermat test spent 0.000610113143921 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000603199005127 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000632047653198 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000636100769043 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.0573480129242 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000650882720947 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000634908676147 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000648975372314 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000670194625854 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000665903091431 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000608921051025 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000255107879639 seconds.
+Fermat test spent 0.000612020492554 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 0.000686168670654 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000648021697998 seconds.
+Generated a 100 digit random number in 0.000252962112427 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 8.82148742676e-06 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000678062438965 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000645875930786 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000661134719849 seconds.
+Generated a 100 digit random number in 0.000265121459961 seconds.
+Fermat test spent 0.000648021697998 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.00064492225647 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000673770904541 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000651121139526 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000634908676147 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000608921051025 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000676155090332 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000252962112427 seconds.
+Fermat test spent 0.0627779960632 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000671148300171 seconds.
+Generated a 100 digit random number in 0.000263929367065 seconds.
+Fermat test spent 0.000685930252075 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00062894821167 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000576019287109 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000566005706787 seconds.
+Generated a 100 digit random number in 0.000254154205322 seconds.
+Fermat test spent 0.000692844390869 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000645160675049 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000636100769043 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000256061553955 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000657081604004 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000642061233521 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000667095184326 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000261068344116 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000634908676147 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000688076019287 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000664949417114 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000620126724243 seconds.
+Generated a 100 digit random number in 0.000252962112427 seconds.
+Fermat test spent 0.00065803527832 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000691175460815 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000662088394165 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.00068998336792 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000605821609497 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000649929046631 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000661849975586 seconds.
+Generated a 100 digit random number in 0.000264167785645 seconds.
+Fermat test spent 0.000633955001831 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000644207000732 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000582933425903 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000673055648804 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000654935836792 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000568151473999 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 0.000698089599609 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000667095184326 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000600099563599 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000678062438965 seconds.
+Generated a 100 digit random number in 0.000262022018433 seconds.
+Fermat test spent 0.000651836395264 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000668048858643 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000643014907837 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.00059986114502 seconds.
+Generated a 100 digit random number in 0.000256061553955 seconds.
+Fermat test spent 0.000637054443359 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000683069229126 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000587940216064 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000671148300171 seconds.
+Generated a 100 digit random number in 0.000250101089478 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.00025486946106 seconds.
+Fermat test spent 0.00064492225647 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000605821609497 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000658988952637 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000658988952637 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 0.000663042068481 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000648975372314 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000675201416016 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000253915786743 seconds.
+Fermat test spent 0.000669002532959 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000671863555908 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000688076019287 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000683069229126 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000651836395264 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000616073608398 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000684976577759 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 0.000669956207275 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000679016113281 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000602006912231 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000683069229126 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000643968582153 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000597953796387 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 0.000588893890381 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000606060028076 seconds.
+Generated a 100 digit random number in 0.000254154205322 seconds.
+Fermat test spent 0.000641107559204 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000648021697998 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000653982162476 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000617027282715 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000617027282715 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000592947006226 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000635862350464 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000639915466309 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000615119934082 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.12056732178e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000646114349365 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000678062438965 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000614881515503 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 0.000601053237915 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000688076019287 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000586032867432 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000582933425903 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.00059700012207 seconds.
+Generated a 100 digit random number in 0.000256061553955 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000679016113281 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000644207000732 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000669956207275 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000655889511108 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000640869140625 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000638008117676 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000607013702393 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000649929046631 seconds.
+Generated a 100 digit random number in 0.000249147415161 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000599145889282 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000663995742798 seconds.
+Generated a 100 digit random number in 0.000255107879639 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000602960586548 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000677108764648 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000647068023682 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000253915786743 seconds.
+Fermat test spent 0.000622987747192 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000587940216064 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000653028488159 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000658988952637 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000669002532959 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000602960586548 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000703096389771 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000653982162476 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000601053237915 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000627040863037 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 0.00067400932312 seconds.
+Generated a 100 digit random number in 0.000252962112427 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000651121139526 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000661134719849 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000622987747192 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000668048858643 seconds.
+Generated a 100 digit random number in 0.000262022018433 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000655174255371 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.0648949146271 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000626087188721 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000600099563599 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000591993331909 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000590085983276 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000653028488159 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000263929367065 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000651836395264 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000678062438965 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00066876411438 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.0615811347961 seconds.
+Generated a 100 digit random number in 0.000251054763794 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000602960586548 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000694036483765 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000575065612793 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000680208206177 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000653028488159 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000648975372314 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 0.000645160675049 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000617980957031 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000688076019287 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.00065279006958 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000608921051025 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.00058913230896 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000664949417114 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000241994857788 seconds.
+Fermat test spent 0.000672101974487 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000684022903442 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.00068998336792 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.00068998336792 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000671863555908 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000604867935181 seconds.
+Generated a 100 digit random number in 0.000253915786743 seconds.
+Fermat test spent 0.00058913230896 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000631093978882 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000663042068481 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000643014907837 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000671863555908 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000586032867432 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000706911087036 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000636100769043 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 0.000571012496948 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000586986541748 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000602960586548 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000578165054321 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 8.82148742676e-06 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000608921051025 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000677108764648 seconds.
+Generated a 100 digit random number in 0.00025200843811 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 9.05990600586e-06 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000677824020386 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000573873519897 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000657081604004 seconds.
+Generated a 100 digit random number in 0.000264883041382 seconds.
+Fermat test spent 0.000661849975586 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000650882720947 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000665903091431 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.00059986114502 seconds.
+Generated a 100 digit random number in 0.000255107879639 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 9.05990600586e-06 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000652074813843 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000627994537354 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000670909881592 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000578880310059 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000648975372314 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000655174255371 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000659942626953 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000612020492554 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000604152679443 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000688076019287 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000642061233521 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000592947006226 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000671863555908 seconds.
+Generated a 100 digit random number in 0.000252962112427 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000684976577759 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 9.05990600586e-06 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000680923461914 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000571966171265 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000696897506714 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000694990158081 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000638008117676 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000641107559204 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000601053237915 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000672817230225 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 8.82148742676e-06 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000676870346069 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000657081604004 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000663042068481 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000627994537354 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000653028488159 seconds.
+Generated a 100 digit random number in 0.000262975692749 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000669956207275 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000664949417114 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000592947006226 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000669002532959 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000679016113281 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000642061233521 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000642061233521 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000622034072876 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000643014907837 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000679969787598 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000661134719849 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000620126724243 seconds.
+Generated a 100 digit random number in 0.000263929367065 seconds.
+Fermat test spent 0.000663995742798 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000669002532959 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.19209289551e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000638961791992 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000655889511108 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000586986541748 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000638008117676 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000645160675049 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000250816345215 seconds.
+Fermat test spent 0.000632047653198 seconds.
+Generated a 100 digit random number in 0.000249147415161 seconds.
+Fermat test spent 0.000615119934082 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000676870346069 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000607967376709 seconds.
+Generated a 100 digit random number in 0.000249147415161 seconds.
+Fermat test spent 0.000680208206177 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000693082809448 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000655889511108 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000595092773438 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000626802444458 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000669002532959 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000696897506714 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000643968582153 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000644207000732 seconds.
+Generated a 100 digit random number in 0.000265121459961 seconds.
+Fermat test spent 0.000701904296875 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000642061233521 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000680923461914 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000581979751587 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 9.05990600586e-06 seconds.
+Generated a 100 digit random number in 0.000253915786743 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000607013702393 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000673055648804 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000695943832397 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000684022903442 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000614881515503 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.00067400932312 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000706911087036 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000676155090332 seconds.
+Generated a 100 digit random number in 0.000261783599854 seconds.
+Fermat test spent 0.000691175460815 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000654935836792 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000253915786743 seconds.
+Fermat test spent 0.000574111938477 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000602006912231 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000645875930786 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000643014907837 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.00068187713623 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000639915466309 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 9.05990600586e-06 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000669002532959 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000584840774536 seconds.
+Generated a 100 digit random number in 0.000261068344116 seconds.
+Fermat test spent 0.000572919845581 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000669956207275 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000658988952637 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.00025486946106 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000586032867432 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000664949417114 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000620126724243 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000703096389771 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000652074813843 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 0.000581979751587 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000671863555908 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000632047653198 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000615835189819 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000623941421509 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.12056732178e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000672817230225 seconds.
+Generated a 100 digit random number in 0.000253915786743 seconds.
+Fermat test spent 1.12056732178e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000637054443359 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000659942626953 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00066089630127 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000667095184326 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000645160675049 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000678062438965 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000598192214966 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000626087188721 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000650882720947 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 9.05990600586e-06 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000596046447754 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 8.82148742676e-06 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000653028488159 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000661134719849 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000640869140625 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000655889511108 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000252962112427 seconds.
+Fermat test spent 0.000577926635742 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000639915466309 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000657081604004 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000637054443359 seconds.
+Generated a 100 digit random number in 0.000249862670898 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.00061297416687 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000241994857788 seconds.
+Fermat test spent 9.05990600586e-06 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000253915786743 seconds.
+Fermat test spent 0.000616073608398 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000691175460815 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000653982162476 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000686883926392 seconds.
+Generated a 100 digit random number in 0.000254154205322 seconds.
+Fermat test spent 0.000609874725342 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000668048858643 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000607967376709 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000710964202881 seconds.
+Generated a 100 digit random number in 0.000249147415161 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000657081604004 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000637054443359 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000658988952637 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000683069229126 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000663042068481 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000617980957031 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000586986541748 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000648021697998 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.00060510635376 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000596046447754 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000650882720947 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.00067400932312 seconds.
+Generated a 100 digit random number in 0.000262975692749 seconds.
+Fermat test spent 1.12056732178e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.00058388710022 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000670909881592 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000658988952637 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000649929046631 seconds.
+Generated a 100 digit random number in 0.000251054763794 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000638961791992 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.00024676322937 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000666856765747 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000699996948242 seconds.
+Generated a 100 digit random number in 0.000253915786743 seconds.
+Fermat test spent 0.000687122344971 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000653982162476 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000591993331909 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000263929367065 seconds.
+Fermat test spent 0.000685930252075 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000677824020386 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000611066818237 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000633955001831 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000622034072876 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000669002532959 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000633955001831 seconds.
+Generated a 100 digit random number in 0.000263929367065 seconds.
+Fermat test spent 0.000677108764648 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000597953796387 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000691890716553 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.12056732178e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000645160675049 seconds.
+Generated a 100 digit random number in 0.000262022018433 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000577926635742 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.00062894821167 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000673055648804 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000653982162476 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000607013702393 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000656843185425 seconds.
+Generated a 100 digit random number in 0.000254154205322 seconds.
+Fermat test spent 0.00068187713623 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000241994857788 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000241994857788 seconds.
+Fermat test spent 0.000675916671753 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 8.82148742676e-06 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000262022018433 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000679016113281 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000679016113281 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000584840774536 seconds.
+Generated a 100 digit random number in 0.000255107879639 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000595092773438 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000617027282715 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000672817230225 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000645875930786 seconds.
+Generated a 100 digit random number in 0.000252962112427 seconds.
+Fermat test spent 0.00065016746521 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.00065803527832 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000649929046631 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000659942626953 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000600814819336 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000587940216064 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000599145889282 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000663042068481 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000641822814941 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000641107559204 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.00059700012207 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000627040863037 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 0.000647068023682 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000664949417114 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000613927841187 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000586986541748 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000648021697998 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000683784484863 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000252962112427 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000588893890381 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000610113143921 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000602006912231 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000672101974487 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000662088394165 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000649929046631 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000603914260864 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000678062438965 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 0.000622987747192 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000659942626953 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000674962997437 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000659942626953 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 0.000588178634644 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000669956207275 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000670909881592 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000624895095825 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000684022903442 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000669002532959 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.00059986114502 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000651121139526 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000599145889282 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000643014907837 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000609874725342 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000696897506714 seconds.
+Generated a 100 digit random number in 0.000249147415161 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000241041183472 seconds.
+Fermat test spent 0.000607967376709 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.063581943512 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000610113143921 seconds.
+Generated a 100 digit random number in 0.000243186950684 seconds.
+Fermat test spent 0.000613927841187 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000623941421509 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00067400932312 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000634908676147 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000663042068481 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000669002532959 seconds.
+Generated a 100 digit random number in 0.000253915786743 seconds.
+Fermat test spent 1.12056732178e-05 seconds.
+Generated a 100 digit random number in 0.000241994857788 seconds.
+Fermat test spent 0.000627040863037 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000677824020386 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000631093978882 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000590085983276 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 0.000602960586548 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000607013702393 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000662803649902 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000701904296875 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.00062894821167 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000669002532959 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000613927841187 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000658988952637 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00068211555481 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000678062438965 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000663995742798 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000606060028076 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000661849975586 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000638008117676 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000679969787598 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000614881515503 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000643014907837 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000633001327515 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.12056732178e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000678062438965 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000692844390869 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000687837600708 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000687837600708 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000598907470703 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 0.000611066818237 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000260829925537 seconds.
+Fermat test spent 0.00067400932312 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000612020492554 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000660181045532 seconds.
+Generated a 100 digit random number in 0.000253200531006 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000659942626953 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000661134719849 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00064492225647 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000678062438965 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000678062438965 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000683069229126 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000622034072876 seconds.
+Generated a 100 digit random number in 0.000249147415161 seconds.
+Fermat test spent 0.000636100769043 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000700950622559 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000609874725342 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000576972961426 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000599145889282 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 0.000676155090332 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 9.05990600586e-06 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000596046447754 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000677108764648 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000687122344971 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000684976577759 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000263929367065 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000647783279419 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000607013702393 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.00067400932312 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000256061553955 seconds.
+Fermat test spent 0.000615835189819 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000673055648804 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000608205795288 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000673055648804 seconds.
+Generated a 100 digit random number in 0.000256061553955 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000592947006226 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000694990158081 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000685930252075 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.0667309761047 seconds.
+Generated a 100 digit random number in 0.00025200843811 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000248193740845 seconds.
+Fermat test spent 0.000675201416016 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.00025200843811 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000617027282715 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000653982162476 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000690937042236 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000639915466309 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000603914260864 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000683069229126 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 0.000657081604004 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.00065279006958 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.00060510635376 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000255823135376 seconds.
+Fermat test spent 0.000581026077271 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000671148300171 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000615835189819 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000635147094727 seconds.
+Generated a 100 digit random number in 0.000262022018433 seconds.
+Fermat test spent 0.000670194625854 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000600099563599 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000661134719849 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000633001327515 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000642061233521 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000645875930786 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000676870346069 seconds.
+Generated a 100 digit random number in 0.000254154205322 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000651121139526 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000643014907837 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000682830810547 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000264883041382 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000241994857788 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000586032867432 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 9.77516174316e-06 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000622987747192 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000630140304565 seconds.
+Generated a 100 digit random number in 0.000255107879639 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000242948532104 seconds.
+Fermat test spent 0.000610828399658 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000673055648804 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000663042068481 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000646114349365 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000655889511108 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000655889511108 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000626802444458 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 0.000694036483765 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000699043273926 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000652074813843 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000665903091431 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000626087188721 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000666856765747 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000679016113281 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000657796859741 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000679969787598 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000649929046631 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.09672546387e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.000595092773438 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000248908996582 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000243902206421 seconds.
+Fermat test spent 0.000702857971191 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000617027282715 seconds.
+Generated a 100 digit random number in 0.000247955322266 seconds.
+Fermat test spent 0.000634908676147 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000646829605103 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000254154205322 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000245809555054 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000618934631348 seconds.
+Generated a 100 digit random number in 0.000247001647949 seconds.
+Fermat test spent 0.000708818435669 seconds.
+Generated a 100 digit random number in 0.000246047973633 seconds.
+Fermat test spent 0.000652074813843 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244140625 seconds.
+Fermat test spent 0.000651836395264 seconds.
+Generated a 100 digit random number in 0.000245094299316 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 1.00135803223e-05 seconds.
+Generated a 100 digit random number in 0.000244855880737 seconds.
+Fermat test spent 0.0654599666595 seconds.
 
-Total time elapsed: 0.00700092315674 seconds.
-Total spent by Fermat: 0.000105381011963 seconds.
-Total spent by xorshift: 0.00546550750732 seconds.
+Total time elapsed: 1.63094902039 seconds.
+Total spent by Fermat: 1.20452213287 seconds.
+Total spent by xorshift: 0.410473823547 seconds.
 
-78% of time elapsed in xorshift.
-
+25% of time was elapsed in xorshift.
+Fermat test detected 1654 non-primes.
 Printing the 10 (probable) primes generated:
-4282227565570182951071965911206214859799196712110741011315700759092851436156398719551120230408334215
-3983517428301738803364827286835239870147315989139354862321916763142338413502916401984482139450017323
-2666601986346496002036533098818154421642581931187343914160032077524313982647714216939224613565677013
-3562025871576701084188427251619954491353838684524225207173433048337585586786852586981538329922262935
-3353899959940288273652692849154390517286787413346104879241776672022347048876169762972330440680382415
-4182160309133164794740234753981612623680126725104816661941171626726293375363072142787053164236235471
-2798181603582696596377093801391144459337583782922808766444219568010832480404934257155025789795729277
-1478387131137598425614439061393112385818420827503831237151024548041694517091293950145754305068595379
-2483662358388020122285996830774572640541089079314059815826155334921746491347370998116428139393940715
-2785121532281631162812847207375499821024353730842484090372182262667336464387773582761792251941438003
+3694007366154092292631063232782235780541418934306117132970783260547366215693091823354563803132690987
+2314862320119144634225970086053907669676351559014021315144283224880521939805283206931486620729298403
+2950787917354076790088711093242486361671354391163261810299254564283181210183323390320971421095262277
+1423915564335424485036407034082382523287382326048325560671659334403737740057356539271735629380931397
+2839887328130179458137677400841026017622185609286314614312186374306439069159810277053952506949126963
+4055558556243370339623326475923855657989129781962183212054749103803127800955083404995549272792193241
+1435870883159816643234265625401815809259320280301719850756817898418544193629036111229806225519450783
+4016957102183410512713664622609680876611096831340389578475682027064337241407518873798143061157943589
+3263528989766911756418131452418724555982384339097415739665535686124912705380287343693106110376386749
+2692197862371200218302072615220876983161660643691437686386368770334241666200721599963162157658228623
